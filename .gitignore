@@ -2,3 +2,8 @@
 .sami/
 *.tmp
 *.bak
+
+cli
+cli-map.json
+src
+virion.yml
